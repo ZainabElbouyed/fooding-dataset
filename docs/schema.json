@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Fooding Restaurant Schema",
+  "description": "Schéma des données restaurants (Rabat & Tanger)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "_id",
+      "position",
+      "title",
+      "address",
+      "latitude",
+      "longitude",
+      "rating",
+      "ratingCount",
+      "category"
+    ],
+    "properties": {
+      "_id": {
+        "type": "string",
+        "description": "Identifiant unique du document"
+      },
+      "position": {
+        "type": "number",
+        "description": "Classement ou position du restaurant"
+      },
+      "title": {
+        "type": "string",
+        "description": "Nom du restaurant"
+      },
+      "address": {
+        "type": "string",
+        "description": "Adresse complète"
+      },
+      "latitude": {
+        "type": "number",
+        "description": "Latitude GPS"
+      },
+      "longitude": {
+        "type": "number",
+        "description": "Longitude GPS"
+      },
+      "rating": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 5,
+        "description": "Note moyenne"
+      },
+      "ratingCount": {
+        "type": "number",
+        "description": "Nombre total d'avis"
+      },
+      "priceLevel": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Niveau de prix"
+      },
+      "type": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Moments de service (déjeuner, dîner, etc.)"
+      },
+      "enfant": {
+        "type": "boolean",
+        "description": "Adapté aux enfants"
+      },
+      "halal": {
+        "type": "string",
+        "enum": ["Oui", "Non", "Inconnu"],
+        "description": "Disponibilité halal"
+      },
+      "Vegetarien": {
+        "type": "boolean",
+        "description": "Options végétariennes disponibles"
+      },
+      "category": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Catégories culinaires"
+      },
+      "ambiance": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Ambiance du restaurant"
+      },
+      "website": {
+        "type": "string",
+        "format": "uri",
+        "description": "Site web officiel"
+      },
+      "phoneNumber": {
+        "type": "string",
+        "description": "Numéro de téléphone"
+      },
+      "cid": {
+        "type": "string",
+        "description": "Identifiant CID (Google)"
+      }
+    },
+    "additionalProperties": false
+  }
+}
