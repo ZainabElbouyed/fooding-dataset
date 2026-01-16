@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Fooding_logo.png" alt="Fooding App Logo" width="180"/>
+</p>
+
 # Fooding Dataset 🍽️
 
 Ce dépôt contient des fichiers de données au format JSON
