@@ -24,3 +24,67 @@ data/
  └── tanger.json   # Restaurants de la ville de Tanger
 docs/
  └── schema.json       # Schéma JSON des données restaurants
+```
+
+---
+
+## 💾 Installation & Base de données MongoDB
+
+### 1️⃣ Option 1 : MongoDB Compass (interface graphique)
+
+1. Télécharge et installe **MongoDB Community Server** avec **MongoDB Compass** :  
+[https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community)
+
+2. Ouvre MongoDB Compass et connecte-toi à ton serveur local (`localhost:27017`).
+
+3. Crée la base de données **Restaurants** et les collections :  
+   - `Rabat`  
+   - `Tanger`
+
+4. Importer les fichiers JSON :  
+   - Sélectionne la collection → **Add Data → Import File**  
+   - Choisis le fichier JSON (`data/rabat.json` ou `data/tanger.json`)  
+   - Format : **JSON Array** → Clique sur **Import**
+
+---
+
+### 2️⃣ Option 2 : mongosh (shell)
+
+1. Installer le shell MongoDB :  
+[https://www.mongodb.com/try/download/shell](https://www.mongodb.com/try/download/shell)
+
+2. Vérifier l’installation :
+
+```bash
+mongosh --version
+```
+3. Lancer le shell :
+
+```bash
+mongosh
+```
+4. Créer la base de données et les collections :
+   
+```
+use Restaurants
+db.createCollection("Rabat")
+db.createCollection("Tanger")
+```
+5. Importer les fichiers JSON depuis le terminal (optionnel) :
+
+```
+mongoimport --db Restaurants --collection Rabat --file data/rabat.json --jsonArray
+mongoimport --db Restaurants --collection Tanger --file data/tanger.json --jsonArray
+```
+
+---
+
+## 🧾 Schema JSON
+Le fichier `docs/schema.json` décrit la structure et les types de toutes les données restaurants, et permet de valider les fichiers JSON avant de les importer dans MongoDB.
+
+---
+
+## 🎯 Objectif
+- Construire un système de recommandation de restaurants
+- Exploiter les données pour l’analyse, le filtrage et la recommandation
+- Ajouter progressivement toutes les villes hôtes du Mondial 2030
