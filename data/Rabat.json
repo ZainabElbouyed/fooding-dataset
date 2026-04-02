@@ -7,16 +7,32 @@
     "longitude": -6.8396729,
     "rating": 4.1,
     "ratingCount": 136,
-    "priceLevel": ["$$, $$$"],
-    "type": ["Déjeuner", "Dîner", "Petit-Déjeuner"],
+    "priceLevel": [
+      "$$, $$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant italien ","Brunch","Traiteur","Bar"], 
-    "ambiance" : ["Rooftop", "Romantique", "Vue panoramique", "élégant"],
+    "category": [
+      "Restaurant italien ",
+      "Brunch",
+      "Traiteur",
+      "Bar"
+    ],
+    "ambiance": [
+      "Rooftop",
+      "Romantique",
+      "Vue panoramique",
+      "élégant"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepnWW-LFetwLKTfsJP3jl6AtLAFeCY3bBGFcf9FK5v_umn51yTb8abtlsTTdJ8DS0hgxRFPR5x73idSuFtepqGCFJN4pvpJw2wPXSO5HC5KnpS-R62LGB-JDpfPLX3drO7sz0An=w800-h600-p-k-no",
     "phoneNumber": "0689-359610",
     "cid": "12337698339461437092"
-
   },
   {
     "position": 2,
@@ -26,13 +42,24 @@
     "longitude": -6.8485533,
     "rating": 4.7,
     "ratingCount": 653,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": false,
-    "category": ["Restaurant intenational"], 
-    "ambiance ": ["Décontracté","Branché"],
+    "category": [
+      "Restaurant intenational"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqa6SDFz1pqr8CUPLqEWdUuRSOcSK1iwNID1eJTOyxovsu-tvvjJpciwowiR_dpnoZgQrlEDgM5Y3jwZtZoS4cncJqF_YCf75yDwF_IVjN3c-OaKeTqe9iEsy6doCB1Y4MLXUhGxuxYES9Z=w408-h544-k-no",
     "phoneNumber": "0705-225260",
     "website": "https://www.le40.ma/",
     "cid": "1890876146279899910"
@@ -45,13 +72,26 @@
     "longitude": -6.8484874,
     "rating": 4.2,
     "ratingCount": 132,
-    "priceLevel": ["$", "$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant moyen-oriental"], 
-    "ambiance ": ["Traditionnel", "Cadre agréable","Décontracté"],
+    "category": [
+      "Restaurant moyen-oriental"
+    ],
+    "ambiance ": [
+      "Traditionnel",
+      "Cadre agréable",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOf_cG8YNtiobBGbL8uzCbQ_HsZ1PvB0xtLjwV8=w800-h600-p-k-no",
     "phoneNumber": "0618-078943",
     "cid": "298506062116393803"
   },
@@ -63,13 +103,27 @@
     "longitude": -6.8427413999999995,
     "rating": 3.3,
     "ratingCount": 118,
-    "priceLevel": ["$$", "$$$"],
-    "type": [ "Dîner"],
+    "priceLevel": [
+      "$$",
+      "$$$"
+    ],
+    "type": [
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": false,
-    "category": ["Restaurant international", "Bar","Traiteur"],
-    "ambiance ": ["Nocturne", "Animé","Branché"],
+    "category": [
+      "Restaurant international",
+      "Bar",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Nocturne",
+      "Animé",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoNAL9LV-fubANNA_kIQgy5iBoaiueRwEL44wDJD8ZNJpS--ZIcaRjsFpBaLfVN0-tOMfi9W4bHdneY7Z4kePZkJSze-5XxcS7akJkDWDqwO5wdZ_YKpaErDzDjkh5Y2QYhI5v6FBwkTsp7=w800-h600-p-k-no",
     "phoneNumber": "0670-730239",
     "cid": "8132119429670812443"
   },
@@ -81,13 +135,28 @@
     "longitude": -6.8510864,
     "rating": 4.3,
     "ratingCount": 196,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner", "Petit-Déjeuner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant italien", "Restaurant marocain","Traiteur"],
-    "ambiance ": ["Décontracté", "Calme" ,"Cadre agréable"],
+    "category": [
+      "Restaurant italien",
+      "Restaurant marocain",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Calme",
+      "Cadre agréable"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepF60PFQ38J4HSOpHlCSEoSiYqY39VbFp-RHl1JiG_joYCVyr6xptnY50bIjrNz0M-2MIPAC7-FDbrIM4zfSyRTeQreNoM1AU6EILHtWqI7Vx1EajEqTP3lwb8BS42OwrFAtSr0=w800-h600-p-k-no",
     "phoneNumber": "0661-106516",
     "cid": "16636629118673613355"
   },
@@ -99,13 +168,31 @@
     "longitude": -6.8468542999999995,
     "rating": 4.2,
     "ratingCount": 702,
-    "priceLevel": ["$", "$$"],
-    "type": ["Déjeuner", "Dîner", "Petit-Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant international", "Restaurant espagnol"],
-    "ambiance ": ["Décontracté", "Calme","Cadre agréable","Haut de gamme", "Élégant","Romantique"],
+    "category": [
+      "Restaurant international",
+      "Restaurant espagnol"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Calme",
+      "Cadre agréable",
+      "Haut de gamme",
+      "Élégant",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOdgAIgFgSND2tN7DdfYCKiFlrl18gC1ojoSYLS=w800-h600-p-k-no",
     "phoneNumber": "0661-690597",
     "cid": "475985550078183508"
   },
@@ -117,13 +204,28 @@
     "longitude": -6.849170099999999,
     "rating": 4.2,
     "ratingCount": 11,
-    "priceLevel": ["$", "$$"],
-    "type": ["Déjeuner", "Dîner", "Petit-Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant libanais","Restaurant syrien"],
-    "ambiance ": ["Traditionnel", "Décontracté","Cadre agréable"],
+    "category": [
+      "Restaurant libanais",
+      "Restaurant syrien"
+    ],
+    "ambiance ": [
+      "Traditionnel",
+      "Décontracté",
+      "Cadre agréable"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerADomM3u5FUMl7-pCP2cIgKhvCnsrG2ShCP921pRuwC1-v11w9aNFXne22A6XToxGKNYZqVecSobV_QehrAd5-0mLq4k05pcC2RxppiZgFTUm-7FTBUKATfToK44SVKlNyScnFUA=w800-h600-p-k-no",
     "phoneNumber": "0688-593344",
     "cid": "8246432681185244246"
   },
@@ -135,14 +237,26 @@
     "longitude": -6.8501085999999995,
     "rating": 3.4,
     "ratingCount": 77,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant italien"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché"],
+    "category": [
+      "Restaurant italien"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché"
+    ],
     "phoneNumber": "05377-77704",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMIMIVp1XJZoXugnw7N42E7X3ro1q9qJrAASI4W=w800-h600-p-k-no",
     "website": "http://pastaway.ma/",
     "cid": "10053721484954158080"
   },
@@ -154,13 +268,26 @@
     "longitude": -6.8478413,
     "rating": 4.1,
     "ratingCount": 2134,
-    "priceLevel": ["$", "$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant syrien"],
-    "ambiance ": ["Décontracté", "Cadre agréable","Traditionnel"],
+    "category": [
+      "Restaurant syrien"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Cadre agréable",
+      "Traditionnel"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPgB3PPWfnScnT-JlUYXc8JGy_rRrgwVdW8J_Cl=w408-h510-k-no",
     "phoneNumber": "05377-71135",
     "website": "https://www.abtalalcham.ma/",
     "cid": "6999332493200774565"
@@ -173,13 +300,33 @@
     "longitude": -6.839673599999999,
     "rating": 3,
     "ratingCount": 830,
-    "priceLevel": ["$$", "$$$", "$$$$"],
-    "type": ["Dîner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant international"," Restaurant espagnol", "Bar","Brunch","Traiteur"],
-    "ambiance ": [ "Animé","Branché","Cadre agréable","Haut de gamme", "Élégant","Romantique"],
+    "category": [
+      "Restaurant international",
+      " Restaurant espagnol",
+      "Bar",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Animé",
+      "Branché",
+      "Cadre agréable",
+      "Haut de gamme",
+      "Élégant",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNtzrH4Zb4fu0-XvU4Q444XWUzsGnIdxJuin_5_=w800-h600-p-k-no",
     "phoneNumber": "0652-621220",
     "cid": "2521823799182248623"
   },
@@ -191,12 +338,23 @@
     "longitude": -6.8347625,
     "rating": 4.9,
     "ratingCount": 165,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "category": ["Restaurant marocain"],
-    "ambiance ": [ "Décontracté","Cadre agréable"],
+    "category": [
+      "Restaurant marocain"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Cadre agréable"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepvufpBnkmQ1biQppoB-Wt0aGqtHJcSnsWoKQ-e8fyLJEWsBNSOGfAGUla3CaVDZX8ajXvd5H5MiiOkZZj38S9J9p7SVzmeGxrEu5Xzg6O5O6x1y_wrzm7pSm_OeCPD6cL9EqFZkp-Nkz_J=w800-h600-p-k-no",
     "phoneNumber": "0530-318969",
     "cid": "4446887823035805512"
   },
@@ -208,13 +366,35 @@
     "longitude": -6.8292506,
     "rating": 4.1,
     "ratingCount": 418,
-    "priceLevel": ["$$", "$$$", "$$$$"],
-    "type": ["Déjeuner", "Dîner", "Petit-Déjeuner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant international", "Restaurant gastronomique", "Brunch","Traiteur","Bar"],
-    "ambiance ": [ "Animé","Branché","Cadre agréable","Haut de gamme", "Élégant","Romantique"],
+    "category": [
+      "Restaurant international",
+      "Restaurant gastronomique",
+      "Brunch",
+      "Traiteur",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Animé",
+      "Branché",
+      "Cadre agréable",
+      "Haut de gamme",
+      "Élégant",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqJaPBbgUDVaqPLDP8RsgMm8Ffydn079L6JDIx4lLJ32FA4NwaNQi0Pc9F_M9uDEj7AHMXvPsOYNCQx_I0UVMo6tJSUcT0J1VMImo9pnpd6KriSvYfoix-DBWVPNJXDOYR-eJzqQDzmEvrh=w800-h600-p-k-no",
     "phoneNumber": "0613-676065",
     "cid": "5459657403191215915"
   },
@@ -226,13 +406,27 @@
     "longitude": -6.8506358,
     "rating": 3.8,
     "ratingCount": 344,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner" ],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": false,
-    "category": ["Restaurant international", "Restaurant de grillades","Traiteur"],
-    "ambiance ": ["Cadre agréable","Décontracté"],
+    "category": [
+      "Restaurant international",
+      "Restaurant de grillades",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer0UVZ5XqqxCEaH2P4yBysb0mTOXjFIfh8bk286HJhzgtXBMBuo_3nJUSlGZJ19i2GisGzMJ8gO16u2LimTkg0wjWovo5K9ZjLHo_QPPBLsbf5Jb5LYzPO1utP5Pg_HGQ6D5_GR=w800-h600-p-k-no",
     "phoneNumber": "05377-77859",
     "cid": "12628120522537121592"
   },
@@ -244,13 +438,31 @@
     "longitude": -6.8278516,
     "rating": 3.4,
     "ratingCount": 307,
-    "priceLevel": ["$$","$$$","$$$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant de grillades", " Restaurant de fruits de mer"],
-    "ambiance ": [ "Décontracté","Branché","Cadre agréable","Haut de gamme", "Élégant","Romantique"],
+    "category": [
+      "Restaurant de grillades",
+      " Restaurant de fruits de mer"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Branché",
+      "Cadre agréable",
+      "Haut de gamme",
+      "Élégant",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqLGKNItWhukWf9GtVTVdbcQ6zdO0rUfoaLj0raEfis4Y2k6aFcvrSFsNn1wWnqeAeTXdshwOrSviwWSzu2s1AfVG4H0ZJuuun138Esc7LAg6Vt4Ci7aJQ6roSF-cAbj8EQ7L1M=w800-h600-p-k-no",
     "phoneNumber": "0663-241233",
     "cid": "15069355062027660404"
   },
@@ -262,14 +474,32 @@
     "longitude": -6.8280833,
     "rating": 4.3,
     "ratingCount": 1191,
-    "priceLevel": ["$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant italien", "Restaurant moyen-oriental"],
-    "ambiance ": [ "Calme","Branché","Cadre agréable","Haut de gamme", "Élégant","Romantique","Décontracté"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant italien",
+      "Restaurant moyen-oriental"
+    ],
+    "ambiance ": [
+      "Calme",
+      "Branché",
+      "Cadre agréable",
+      "Haut de gamme",
+      "Élégant",
+      "Romantique",
+      "Décontracté"
+    ],
     "phoneNumber": "05377-51475",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMqrtVziLrN1R4LdnoDjca9g-5jgM-gajMwyMEK=w800-h600-p-k-no",
     "website": "https://aposto.ma/",
     "cid": "14514897343083058726"
   },
@@ -281,13 +511,34 @@
     "longitude": -6.879378099999999,
     "rating": 4.4,
     "ratingCount": 458,
-    "priceLevel": ["$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant marocain", "Restaurant mediterranéen","Restaurant asiatique","Traiteur","Bar"],
-    "ambiance ": [ "Calme","Branché","Cadre agréable","Haut de gamme", "Élégant","Romantique","Décontracté"],
+    "category": [
+      "Restaurant marocain",
+      "Restaurant mediterranéen",
+      "Restaurant asiatique",
+      "Traiteur",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Calme",
+      "Branché",
+      "Cadre agréable",
+      "Haut de gamme",
+      "Élégant",
+      "Romantique",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNNTt4Tcl1kO87GL8AQFMEjsG68XXJbU18krvMu=w800-h600-p-k-no",
     "phoneNumber": "0642-437777",
     "cid": "6480493636185593868"
   },
@@ -299,13 +550,29 @@
     "longitude": -6.8492055,
     "rating": 4.7,
     "ratingCount": 4402,
-    "priceLevel": ["$","$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant italien","Traiteur"],
-    "ambiance ": [ "Calme","Branché","Cadre agréable","Décontracté"],
+    "category": [
+      "Restaurant italien",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Calme",
+      "Branché",
+      "Cadre agréable",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep0CIhKdsKrPx8tMbRa4z_fuI_h7rnVESFcSD5xDX4KrzUtmmMFysSperGbGvN_AOfG1qlReUwyZ46BfCIjOLgC85RAqOWQnFVFlW-BYI_PbQmQAwdTkhZi71FM54Zd1TiZ1PjM8Q=w800-h600-p-k-no",
     "phoneNumber": "05377-70777",
     "cid": "3119989599851539746"
   },
@@ -317,13 +584,28 @@
     "longitude": -6.8438358,
     "rating": 4.8,
     "ratingCount": 6831,
-    "priceLevel": ["$","$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant italien"],
-    "ambiance ": [ "Calme","Branché","Cadre agréable","Décontracté"],
+    "category": [
+      "Restaurant italien"
+    ],
+    "ambiance ": [
+      "Calme",
+      "Branché",
+      "Cadre agréable",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerQZ1IHYyVPr2WM4kjz4kxaSUXrJyefbVuTfwHvrWT7WYVCxcVDWNOOb6S3RIlLzjyA2bD9Ge4MsqOOzFSQnXjPV-wLJusIkytTj0HV_iwDdsRTLFWbQ0r95GHdK1n-FF7DAAbQ9nqUnJQ3=w800-h600-p-k-no",
     "phoneNumber": "05377-09020",
     "website": "https://daralfawakih.ma/",
     "cid": "9883758392909083353"
@@ -336,13 +618,31 @@
     "longitude": -6.8484943000000005,
     "rating": 4.1,
     "ratingCount": 674,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant moyen-oriental","Bar","Brunch","Traiteur"],
-    "ambiance ": [ "Calme","Branché","Cadre agréable","Décontracté","Haut de gamme"],
+    "category": [
+      "Restaurant moyen-oriental",
+      "Bar",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Calme",
+      "Branché",
+      "Cadre agréable",
+      "Décontracté",
+      "Haut de gamme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPc6QVDNOBPi5yqJNR3RI1d3YzmoDhK4wdeEz1j=w800-h600-p-k-no",
     "phoneNumber": "05377-74991",
     "cid": "10473348002487297675"
   },
@@ -354,13 +654,30 @@
     "longitude": -6.8498497,
     "rating": 3.7,
     "ratingCount": 270,
-    "priceLevel": ["$","$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant italien","Restaurant international","Traiteur","Bar"],
-    "ambiance ": ["Branché","Cadre agréable","Décontracté","Haut de gamme"],
+    "category": [
+      "Restaurant italien",
+      "Restaurant international",
+      "Traiteur",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Branché",
+      "Cadre agréable",
+      "Décontracté",
+      "Haut de gamme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOb9kqeUKJfgEhHhHk_dxhBNwVpqSIpwPFXPxMJ=w800-h600-p-k-no",
     "phoneNumber": "0661-916000",
     "website": "https://wa.me/212661916000?text=Bonsoir!",
     "cid": "3325914337108267945"
@@ -373,13 +690,34 @@
     "longitude": -6.8293091,
     "rating": 4.4,
     "ratingCount": 437,
-    "priceLevel": ["$$","$$$", "$$$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant mediterranéen","Bar","Traiteur"],
-    "ambiance ": ["Branché","Cadre agréable","Décontracté","Calme","Élégant","Haut de gamme","Romantique"],
+    "category": [
+      "Restaurant mediterranéen",
+      "Bar",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Branché",
+      "Cadre agréable",
+      "Décontracté",
+      "Calme",
+      "Élégant",
+      "Haut de gamme",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqM73VuXh5DJ9yFsk_zO_uxXt0gvjAqPNlX_zRZA3B3v8Xp0dvr8qok-bijNH66bbatjK6nYMt0BzgqQsFp6hTLnI8GhJTu5xeYgkbiFpntfF4eB-fZn5HHtnXtWOltAxOGbLCJVj0EX7sM=w800-h600-p-k-no",
     "phoneNumber": "05377-50808",
     "website": "https://tangerino-rabat.com/",
     "cid": "14389014243378791976"
@@ -392,13 +730,28 @@
     "longitude": -6.8492298,
     "rating": 4.8,
     "ratingCount": 754,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": false,
-    "category": ["Café","Brunch"],
-    "ambiance ": ["Branché","Cadre agréable","Décontracté","Calme"],
+    "category": [
+      "Café",
+      "Brunch"
+    ],
+    "ambiance ": [
+      "Branché",
+      "Cadre agréable",
+      "Décontracté",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMreLYuKiQvfxOBQOB7Qv_C2fk39GICFL300nM=w800-h600-p-k-no",
     "cid": "8717065315160257667"
   },
   {
@@ -409,13 +762,33 @@
     "longitude": -6.831415499999999,
     "rating": 4.3,
     "ratingCount": 109,
-    "priceLevel": ["$$","$$$", "$$$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": false,
-    "category": ["Restaurant français","Bar","Traiteur"],
-    "ambiance ": ["Branché","Cadre agréable","Décontracté","Calme","Élégant","Haut de gamme","Romantique"],
+    "category": [
+      "Restaurant français",
+      "Bar",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Branché",
+      "Cadre agréable",
+      "Décontracté",
+      "Calme",
+      "Élégant",
+      "Haut de gamme",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerknmk9SI0nG15B3rP9NoDQpyqUawdhXx_qo_eqeBLDYkg8R6k2dzxGww1qYYeWDPNXayAcZDtw5VHCB6OeZhOeztTm-EJiWmqjvQlLQ_1qJsrlTxYsr64CBaLGhO44xqgRCQd2=w800-h600-p-k-no",
     "phoneNumber": "0655-556383",
     "cid": "4219064436731262285"
   },
@@ -427,13 +800,33 @@
     "longitude": -6.826376799999999,
     "rating": 4,
     "ratingCount": 91,
-   "priceLevel": ["$$","$$$", "$$$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant italien ","Restaurant mediterranéen","Bar"],
-    "ambiance ": ["Branché","Cadre agréable","Décontracté","Calme","Élégant","Haut de gamme","Romantique"],
+    "category": [
+      "Restaurant italien ",
+      "Restaurant mediterranéen",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Branché",
+      "Cadre agréable",
+      "Décontracté",
+      "Calme",
+      "Élégant",
+      "Haut de gamme",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN-XP9uHDo9HFXjiSrNCC4IGYRA275cnEzJ5tDf=w800-h600-p-k-no",
     "phoneNumber": "05377-57517",
     "cid": "120034750243313287"
   },
@@ -445,13 +838,29 @@
     "longitude": -6.8468636,
     "rating": 3.7,
     "ratingCount": 150,
-    "priceLevel": ["$$","$$$", "$$$$"],
-    "type": [ "Dîner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Bar","Restaurant mediterranéen","Traiteur"],
-    "ambiance ": ["Branché","Cadre agréable","Nocturne","Animé"],
+    "category": [
+      "Bar",
+      "Restaurant mediterranéen",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Branché",
+      "Cadre agréable",
+      "Nocturne",
+      "Animé"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO6BLxoKkqKgP0-mKcMZ83SkCRcSInkdP-g5Kgk=w800-h600-p-k-no",
     "phoneNumber": "0658-162111",
     "cid": "17411746478271522217"
   },
@@ -463,13 +872,32 @@
     "longitude": -6.8456087,
     "rating": 4.3,
     "ratingCount": 691,
-    "priceLevel": ["$$","$$$", "$$$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant français","Restaurant mediterranéen", "Bar"],
-    "ambiance ": ["Branché","Décontracté","Haut de gamme","Romantique","Cadre agréable","Animé"],
+    "category": [
+      "Restaurant français",
+      "Restaurant mediterranéen",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Branché",
+      "Décontracté",
+      "Haut de gamme",
+      "Romantique",
+      "Cadre agréable",
+      "Animé"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPAnRv1jA32xlBkwGP4RqjcieZziTyrYDvhxGYy=w800-h600-p-k-no",
     "phoneNumber": "05376-86900",
     "website": "http://www.lelimonadier.com/",
     "cid": "3961811162126706211"
@@ -482,13 +910,25 @@
     "longitude": -6.8510563,
     "rating": 4.1,
     "ratingCount": 31,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant marocain","Traiteur"],
-    "ambiance ": [ "Décontracté","Cadre agréable"],
+    "category": [
+      "Restaurant marocain",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Cadre agréable"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo9hU1ris3TuAZqB-PMvDVt6WcUrf59upYJZPit70gd91beTBLB16BR6PHnqOnbkrSGTVggJgP95VVzoRDGbLxqYKHNljPuy_mlQ13rpjj483cYowq0l7sH7IFhIiZ7SpL0wE4=w800-h600-p-k-no",
     "phoneNumber": "0530-516153",
     "cid": "4920040234627616553"
   },
@@ -500,13 +940,29 @@
     "longitude": -6.8298583,
     "rating": 4.2,
     "ratingCount": 95,
-    "priceLevel": ["$","$$","$$$","$$$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$",
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant marocain","Bar"],
-    "ambiance ": [ "Décontracté","Cadre agréable","Animé"],
+    "category": [
+      "Restaurant marocain",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Cadre agréable",
+      "Animé"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerhfQhK3PPfGEW-M9efukSGaOA5v4C9TG8HXMI-cdSYNqpWsiE4PxzBjbEI1b8wc4yY3iZd1sdZiTbMfmAQUZh8d5O6BEEo1cn1HtjlY656Ccq1PmA975NNiyVZAQ3cgnwYlcw=w800-h600-p-k-no",
     "phoneNumber": "0661-400013",
     "cid": "13722512160376957276"
   },
@@ -518,13 +974,30 @@
     "longitude": -6.8481773,
     "rating": 4.3,
     "ratingCount": 97,
-    "priceLevel": ["$","$$","$$$","$$$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$",
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": false,
-    "category": ["Restaurant marocain", "Restaurant de grillades","Traiteur"],
-    "ambiance ": [ "Décontracté","Cadre agréable","Branché"],
+    "category": [
+      "Restaurant marocain",
+      "Restaurant de grillades",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Cadre agréable",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNncl_T584LXdL7oNvMn-uagjSwTUfnVE0OVbKc=w800-h600-p-k-no",
     "phoneNumber": "05376-80057",
     "cid": "9846769971368992134"
   },
@@ -536,13 +1009,30 @@
     "longitude": -6.8453287,
     "rating": 3.5,
     "ratingCount": 862,
-    "priceLevel": ["$","$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant italien ","Brunch","Traiteur"],
-    "ambiance ": [ "Décontracté","Cadre agréable","Branché","Calme"],
+    "category": [
+      "Restaurant italien ",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Cadre agréable",
+      "Branché",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoaVTyTEkvMsUzVFvYO9I9exUd6cH-HuOO01UBs7ft2M7tgdXlWKW7rrYf-Kwf1_kma8fCKO5YUswC7IoJ-6rQrQilz8qvA-S5TR3yk7olEd1BXlZ2f4nqtPEE2DvE6hxunjor-lg=w800-h600-p-k-no",
     "phoneNumber": "05376-86911",
     "website": "http://www.capannamaroc.ma/",
     "cid": "1048567833829784792"
@@ -555,13 +1045,32 @@
     "longitude": -6.847815799999999,
     "rating": 4,
     "ratingCount": 622,
-    "priceLevel": ["$$","$$$","$$$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant espagnol","Traiteur","Brunch","Bar"],
-    "ambiance ": [ "Décontracté","Cadre agréable","Branché","Animé"],
+    "category": [
+      "Restaurant espagnol",
+      "Traiteur",
+      "Brunch",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Cadre agréable",
+      "Branché",
+      "Animé"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweowRgWn1gyPjswPFczUUvluSm6qvZ_MbJ8rnv7sYDqdxwRnHljhCuTERJa7gxjlpkU8gCE6FdYqtcWfCcKwQ_lEBTjIs8hOHPr1SbGUH5hFhRJoOq7KhTFAICKFWdZgFCE2DI3_X75wIzvc=w800-h600-p-k-no",
     "phoneNumber": "05376-73300",
     "cid": "17756213844625272197"
   },
@@ -573,13 +1082,31 @@
     "longitude": -6.8440996,
     "rating": 4.1,
     "ratingCount": 154,
-    "priceLevel": ["$$","$$$","$$$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
     "Vegetarien": true,
-    "category": ["Restaurant espagnol","Brunch","Traiteur"],
-    "ambiance ": [ "Décontracté","Cadre agréable","Branché","Animé"],
+    "category": [
+      "Restaurant espagnol",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Décontracté",
+      "Cadre agréable",
+      "Branché",
+      "Animé"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwersMsKTX1jVvmxfEau-pm-LmAY1gzJbofBGh87a503ZNLOwyggYCXwqe6i__rvDaUcs_yPhCBSSGunUFBg180_BMdiLRAXTnn_UTtuIXpTdF-9zKzVYjtxs8Ei6ySaCol9va_jNmQ=w800-h600-p-k-no",
     "phoneNumber": "05377-73526",
     "cid": "14356772523912766948"
   },
@@ -591,12 +1118,24 @@
     "longitude": -6.842810399999999,
     "rating": 3.8,
     "ratingCount": 10,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
     "Vegetarien": true,
-    "category": ["Restaurant fast food","Traiteur"],
+    "category": [
+      "Restaurant fast food",
+      "Traiteur"
+    ],
+    "ambiance": [
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerGRa5tBDqbpeVm34jY5ANphshslHlu4Mj5-Y9EO1xoyt0iieHq6hbifkhjiI1Ja92kHO7q5W7suMHPG6DE60QACwQ764IVqj0lSYfxMvVKWoSQ16swfZuswV1sW6nn5Yr1G1lD6g=w800-h600-p-k-no",
     "phoneNumber": "0661-057031",
     "cid": "6767226638572790923"
   },
@@ -608,13 +1147,25 @@
     "longitude": -6.8501085999999995,
     "rating": 3.7,
     "ratingCount": 514,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Sandwicherie"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Sandwicherie"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMw8uizkAuHoUM3s6eBUPD0-ptSpikYmdhYQza1=w800-h600-p-k-no",
     "phoneNumber": "05377-77702",
     "website": "http://sandway.ma/",
     "cid": "4571669162234644360"
@@ -627,13 +1178,31 @@
     "longitude": -6.8435467,
     "rating": 4.1,
     "ratingCount": 190,
-    "priceLevel": ["$$","$$$","$$$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant espagnol", "Bar","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Animé"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant espagnol",
+      "Bar",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Animé"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMOnE0zOIwQb0qWNdyVf38cg_cyym2-dURTjckZ=w800-h600-p-k-no",
     "phoneNumber": "0640-629852",
     "website": "https://www.instagram.com/lacerveceriarabat/",
     "cid": "8788138543129199140"
@@ -646,13 +1215,34 @@
     "longitude": -6.8278107,
     "rating": 4.3,
     "ratingCount": 246,
-    "priceLevel": ["$","$$","$$$","$$$$"],
-    "type": ["Dîner"],
+    "priceLevel": [
+      "$",
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant internationale","Restaurant gastronomique","Bar","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Animé","Haut de gamme","Élégant","Romantique"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant internationale",
+      "Restaurant gastronomique",
+      "Bar",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Animé",
+      "Haut de gamme",
+      "Élégant",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPsB-ixxKR1Jt0ApmnzkTLI15_p-KCeA4Omb685=w800-h600-p-k-no",
     "phoneNumber": "0667-505566",
     "website": "https://www.urbanbistro.ma/",
     "cid": "12761635423197271596"
@@ -665,13 +1255,34 @@
     "longitude": -6.8281629,
     "rating": 4.6,
     "ratingCount": 1104,
-    "priceLevel": ["$$","$$$"],
-    "type": ["Dîner","Déjeuner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$$",
+      "$$$"
+    ],
+    "type": [
+      "Dîner",
+      "Déjeuner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant mediterranéen"," Restaurant de fruits de mer","Restaurant de poissons","Brunch","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Haut de gamme","Élégant","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant mediterranéen",
+      " Restaurant de fruits de mer",
+      "Restaurant de poissons",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Haut de gamme",
+      "Élégant",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNfIxrEts8BlnovwjRjd8r_4gn-9FHRyGBK1zJh=w800-h600-p-k-no",
     "phoneNumber": "05377-21072",
     "website": "http://www.marearestaurant.ma/",
     "cid": "17968583061537699719"
@@ -684,13 +1295,34 @@
     "longitude": -6.830351599999999,
     "rating": 4,
     "ratingCount": 908,
-    "priceLevel": ["$","$$"],
-    "type": ["Dîner","Déjeuner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Dîner",
+      "Déjeuner",
+      "Petit-Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant italien ","Brunch","Traiteur","Bar"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Romantique","Haut de gamme","Élégant","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant italien ",
+      "Brunch",
+      "Traiteur",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Romantique",
+      "Haut de gamme",
+      "Élégant",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMGQ_ZQugXvyR19wuTE94eZWjorFFB-MHeKcbrg=w800-h600-p-k-no",
     "phoneNumber": "05377-58161",
     "cid": "1100456521339158269"
   },
@@ -702,13 +1334,28 @@
     "longitude": -6.8469953,
     "rating": 4.1,
     "ratingCount": 1394,
-    "priceLevel": ["$"],
-    "type": ["Dîner","Déjeuner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Dîner",
+      "Déjeuner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant moyen-oriental","Traiteur"],
-    "ambiance ":["Cadre agréable", "Décontracté","Branché","Traditionnel"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant moyen-oriental",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Traditionnel"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer6GfA1ck_AwsanCvnYGJPjzcUshxXDn38M7_utzFCq7L7cFDWz65ihrRzbW7uQz5VjuXpDdmLff4tBWmtPN03zTrrxgOtzroC7loCtStAWEC_Xja5oOaig8BaYUOCX9OQLGdja=w800-h600-p-k-no",
     "phoneNumber": "05376-72002",
     "cid": "13360011036171381384"
   },
@@ -720,13 +1367,33 @@
     "longitude": -6.8281567999999995,
     "rating": 4.1,
     "ratingCount": 585,
-    "priceLevel": ["$","$$"],
-    "type": ["Dîner","Déjeuner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Dîner",
+      "Déjeuner",
+      "Petit-Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant français","Traiteur","Bar"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Romantique","Haut de gamme","Élégant","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant français",
+      "Traiteur",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Romantique",
+      "Haut de gamme",
+      "Élégant",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqigPTgNK1QdGEcACrao_Eq-NtafrUn9k5DpDSVLQ9alYAjKAInNQTKanK_fB_QjPYKzW0kE4Noez4ujx_z5TsmhD6ZUKpmpxxGKFnTtMY7QQV7e3tRbPYrOlnuxmqBE5Zyh3AR=w800-h600-p-k-no",
     "website": "https://www.facebook.com/pages/Picolos/100572826694668",
     "cid": "1957112658017733179"
   },
@@ -738,15 +1405,33 @@
     "longitude": -6.846271799999999,
     "rating": 4.1,
     "ratingCount": 329,
-    "priceLevel": ["$","$$","$$$","$$$$"],
-    "type": [ "Dîner","Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Dîner",
+      "Déjeuner"
+    ],
     "enfant": false,
     "halal": "Non",
-    "category": ["Restaurant espagnol", "Bar","Restaurant mexicain","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Animé"],
+    "category": [
+      "Restaurant espagnol",
+      "Bar",
+      "Restaurant mexicain",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Animé"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepd-lDAftcoBe3P3PReugiFp6t9oIVe5wIatCuAY2BHtdg3vooAiZoQVrrIED3v7VlM4rCnRFaPDvROXMfYbup-fVZ0pJRucHki6TfkeHr8wYl0MBaW8NmJc3xHAR8-Yb94QFiy=w800-h600-p-k-no",
     "phoneNumber": "0700-835248",
     "cid": "4466630605627427526"
-    
   },
   {
     "position": 42,
@@ -756,13 +1441,28 @@
     "longitude": -6.8350018,
     "rating": 4.6,
     "ratingCount": 132,
-    "priceLevel": ["$","$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant espagnol","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant espagnol",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNtkhQFGqM7Wtjn9LNmE8Ge2H3oKgveZMtuPQJX=w800-h600-p-k-no",
     "phoneNumber": "0650-238514",
     "cid": "4932555906382742939"
   },
@@ -774,13 +1474,29 @@
     "longitude": -6.8464287,
     "rating": 4.1,
     "ratingCount": 1413,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Brunch","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Calme","Traditionnel"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Calme",
+      "Traditionnel"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerBDko8X7Y2mgA7LK-t7IgO823QODrRFig703gWKOgBygmjuo9LR1TgrVOH5Pj2EQ26h7UpyRNEM9Z-eOQJzMI16SI3F3ofzJTO4Qb_InFAEa0fxaCHP_l-ffJDxMpnchdWI4Mummqo5vSC=w800-h600-p-k-no",
     "phoneNumber": "05377-79933",
     "cid": "13677985245318732437"
   },
@@ -792,13 +1508,32 @@
     "longitude": -6.8300334,
     "rating": 3.4,
     "ratingCount": 568,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Brunch","Restaurant international","Traiteur", "Restaurant de poissons","Glacier"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Brunch",
+      "Restaurant international",
+      "Traiteur",
+      "Restaurant de poissons",
+      "Glacier"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-OJqXkgz2ukVFXHQDjj08SlVLzQ_yDynxPewN=w800-h600-p-k-no",
     "phoneNumber": "0661-404854",
     "cid": "8149252438913147695"
   },
@@ -810,13 +1545,27 @@
     "longitude": -6.8342889,
     "rating": 4.1,
     "ratingCount": 557,
-    "priceLevel": ["$$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain"],
-     "ambiance ": ["Cadre agréable", "Haut de gamme","Branché","Traditionnel","Romantique"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Haut de gamme",
+      "Branché",
+      "Traditionnel",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNRFkTb7jWz-jvCVNlDyWMSOxE_gG1T7wZAk59g=w800-h600-p-k-no",
     "phoneNumber": "05377-33636",
     "cid": "6135796995886268027"
   },
@@ -828,13 +1577,25 @@
     "longitude": -6.8446587,
     "rating": 4.2,
     "ratingCount": 23,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":false,
-    "category": ["Restaurant italien"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché"],
+    "Vegetarien": false,
+    "category": [
+      "Restaurant italien"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq-jvIvmaWhkCsA6rbwIKVGR_TctiBP_EDJz4lEeZDLnouBONqIgo845qCecfNDuFEKHbuv70dS0-PUq7Zb4BCDUkV93KJyLOhlfFtzt4m21LC0_mZw0I8KKmo9ZtNRErXfg0RA7v7voIbM=w800-h600-p-k-no",
     "cid": "15937423777375944465"
   },
   {
@@ -845,13 +1606,27 @@
     "longitude": -6.839341900000001,
     "rating": 4.5,
     "ratingCount": 1964,
-    "priceLevel": ["$","$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Traditionnel"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Traditionnel"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq1JBphgRlfi4hhOPa5mH2gdcPjFx-g7zCJRh6iPov016Dnexo0IWZ2g_Ak3thtxBIxJmlDYIm9S5xnQVxSDqpiPcgLuBJBJoJvJm1MeZ8J8lcVJtSN_X3pjSti8loLSCIk83JeDA=w800-h600-p-k-no",
     "phoneNumber": "0677-730065",
     "cid": "10328417810741182535"
   },
@@ -863,13 +1638,30 @@
     "longitude": -6.846139699999999,
     "rating": 4.2,
     "ratingCount": 359,
-    "priceLevel": ["$","$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Brunch","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Traditionnel","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Traditionnel",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqEc092Ze_J05Zjfh4F7-LTL55YtsahJGV7eXM02IXOZ-Nmytex0cCDLyOk0c67zyd4C_JabhPA11gmb55ntorNh2fmxY-X3SQbLIsMFhCp6Grlz71R_WFQjpljwIWw6Q7mY3VQNQ=w800-h600-p-k-no",
     "phoneNumber": "05377-77714",
     "cid": "8699263967080226861"
   },
@@ -881,13 +1673,28 @@
     "longitude": -6.8460342,
     "rating": 4.2,
     "ratingCount": 241,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant syrien","Brunch","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Traditionnel","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant syrien",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Traditionnel",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoc9vMlf4sUhnsBTz24Lbu_L6WffXpZ3-y_KHWS_mKNTQGrd2F09kLLYVYHN28w9YEZBRMYS3ttnXAkOr7OZpC3QDzR-nkw6awXiHMDcyAFOYJ1ukHdEVqWYNvbK7Wku8Fz-un8KQ=w800-h600-p-k-no",
     "phoneNumber": "05377-38665",
     "cid": "8149425350992848397"
   },
@@ -899,13 +1706,27 @@
     "longitude": -6.8915234,
     "rating": 4.9,
     "ratingCount": 89,
-   "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant italien ","Glacier","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant italien ",
+      "Glacier",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoZTtIMot5U7RpUIAHifhQBhFHXN8OGKpNkw-9ps0xvlyuTzzaq52J51DXOgU43UxUl3KxEzlvV61HHk24zotUeszVHcRv63KhJi1c_GB9IsF4NqMxAz68UVDdeVGVf7cyyRxolIbQjgLHh=w800-h600-p-k-no",
     "phoneNumber": "0666-537457",
     "cid": "1983207475065938689"
   },
@@ -917,13 +1738,32 @@
     "longitude": -6.831100999999999,
     "rating": 4.6,
     "ratingCount": 211,
-    "priceLevel": ["$$"],
-    "type": ["Déjeuner","Petit-Déjeuner","Dîner"],
+    "priceLevel": [
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Petit-Déjeuner",
+      "Dîner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":false,
-    "category": ["Restaurant français", "Restaurant espagnol", "Restaurant méditerranéen","Traiteur","Brunch"], 
-    "ambiance ": ["Cadre agréable", "Décontracté","Calme","Branché","Élégant"],
+    "Vegetarien": false,
+    "category": [
+      "Restaurant français",
+      "Restaurant espagnol",
+      "Restaurant méditerranéen",
+      "Traiteur",
+      "Brunch"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Calme",
+      "Branché",
+      "Élégant"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqh9peS_6JA_6dUhamRDbzI2GS3FhFW49xDaZNhN-snWgQOl3G1gM4tcWHz8N_fV8IA-K7_S6Vx4wbmwcpeNpYofzHJ5g2lJOyDmQoh_aj6mldnbMb8f9n6rSPruwd03vFmK2vnS-11HrgM=w800-h600-p-k-no",
     "phoneNumber": "0651-505359",
     "cid": "12920144190651544687"
   },
@@ -935,16 +1775,30 @@
     "longitude": -6.8310143,
     "rating": 3.9,
     "ratingCount": 552,
-    "priceLevel": ["$$"],
-    "type": ["Déjeuner", "Dîner"],
+    "priceLevel": [
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
     "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant italien", "Bar","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Animé","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant italien",
+      "Bar",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Animé",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoY-NxaXd6VpTCbUB8d_qZHIkF8uWjArKCbVcPrpb4nkHS4kACMRPzpCG4OC4dRHlHno5jxgQ3VkFpCSIwPk7LuEHGUVnK4jk_jwIvE6oPnpkRHxLFzutInUZeqS5bLby8c6GRg=w800-h600-p-k-no",
     "cid": "1604720308239370972"
   },
-  
   {
     "position": 53,
     "title": "La Casa Di Carta",
@@ -953,13 +1807,29 @@
     "longitude": -6.8260327,
     "rating": 4.2,
     "ratingCount": 299,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
     "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant international","Brunch","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Calme","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant international",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Calme",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep8lD5k7imKkRuueBkl4O6nQr5xWJCyLeMPYroatB_Aw0OdG2Vr4Rp2OQAWfinkJBwqFmo86jfJ4CWOMvcchtxUs0l6N0vU5i9PKqqnGhlQqgO4xDGuzjyrzHVlBPLIzsAa5ahf=w800-h600-p-k-no",
     "phoneNumber": "05372-62658",
     "cid": "11973631054742820705"
   },
@@ -971,13 +1841,26 @@
     "longitude": -6.848179,
     "rating": 3.8,
     "ratingCount": 178,
-    "priceLevel": ["$$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant français","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Romantique"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant français",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoivbadXD0Z_4Mh0YKK7rjlxsg1HLmk2sYhAkMeAklcnDdJqBdS9SIk0uSElHTnPdWqGpCBDHg5XTaWlrgBcYNO-TTlYBtKmqoH7_dHCJbgIbof8N5--xePRCvzx0zwu5Pu68dp9A=w800-h600-p-k-no",
     "phoneNumber": "05376-71108",
     "cid": "3202068402033153188"
   },
@@ -989,13 +1872,29 @@
     "longitude": -6.8373136,
     "rating": 3.9,
     "ratingCount": 469,
-    "priceLevel": ["$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Calme","Branché","Romantique"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Calme",
+      "Branché",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepij0jR4LIdRPqojqcOWJXBkHEGkiyv3wbBZuZaDJtQ7PbK1K7KcAEWmWXwqV_Jpj7StIDjWc6BrC51oa2BfZDCFaG21bS1b8jwpBC-4CF30GLcSmeKqlwnZxEBbAU8pBuzvOZunA=w800-h600-p-k-no",
     "phoneNumber": "05377-29797",
     "website": "https://www.facebook.com/tajinewatanjia.contact/",
     "cid": "10524334138672243792"
@@ -1008,13 +1907,27 @@
     "longitude": -6.8346162999999995,
     "rating": 4.3,
     "ratingCount": 506,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant italien","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Calme","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant italien",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Calme",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep1WBfa9Fy8HEGeirbvUtdwEOzIqHw2ouZcAswqNllivCrU08bmX_3ssfelIR3PG_bUUOMIhBhTs37Mvu_omALlJQWYAUy9hhxAQ_oK6D5US8Jgnkbwb0QH5Qqu9xkRAnAj1pIkfoMrFBaJ=w800-h600-p-k-no",
     "phoneNumber": "0774-210283",
     "website": "https://www.eatalia.ma/",
     "cid": "330501428307918114"
@@ -1027,13 +1940,31 @@
     "longitude": -6.8334734,
     "rating": 4.2,
     "ratingCount": 284,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain", "Restaurant fast food", "Café","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Calme","Branché","Romantique"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Restaurant fast food",
+      "Café",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Calme",
+      "Branché",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMXynqnMJdfg2P8tg1xeMHhduhna7UPTcXBisJM=w800-h600-p-k-no",
     "phoneNumber": "08085-49247",
     "website": "https://restaurantmilanorabat.com/",
     "cid": "17198087613497700385"
@@ -1046,13 +1977,30 @@
     "longitude": -6.8419766,
     "rating": 4.2,
     "ratingCount": 5240,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Brunch","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Romantique","Traditionnel"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Romantique",
+      "Traditionnel"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqCBBUaYqo7VAuE9lcHmeVNB93fC17lpkn_AVG2Yi7l716jRTKieRZyjKe_uSZyfhVsr7UxpAWD6-sU9igcGLb8TzAZz1nKC7qgaS9M1lCGxQjA8roI70C0mmv51AVvK5YMu-BjRSs2gA=w800-h600-p-k-no",
     "phoneNumber": "05372-62528",
     "cid": "10635173462568599654"
   },
@@ -1064,13 +2012,28 @@
     "longitude": -6.838633199999999,
     "rating": 4.6,
     "ratingCount": 273,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain", "Restaurant méditerranéen","Traiteur","Brunch"],
-    "ambiance ": ["Cadre agréable", "Décontracté"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Restaurant méditerranéen",
+      "Traiteur",
+      "Brunch"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepJ22umz7E0ZNe8R-tyFlc7RsO7HYRA_uz4HlQP_mPRHwWke2eZXpzWBOZf6w1OHblEDPE0Y6w7fZBh8bSo9VSB18bUA0YJe_OlXfXRP1Ss6steUQBewcIz7h4dB4VfkSYawIUQszmop0n7=w408-h306-k-no",
     "phoneNumber": "05372-62528",
     "cid": "18446022551495502400"
   },
@@ -1082,13 +2045,30 @@
     "longitude": -6.8502426,
     "rating": 4,
     "ratingCount": 1655,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant international", "Restaurant fast food","Traiteur"],
-     "ambiance ": ["Cadre agréable", "Décontracté","Branché","Calme","Haut de gamme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant international",
+      "Restaurant fast food",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Calme",
+      "Haut de gamme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOf4WEKMjGjGsLmsfnVGVtVWQ6oZBAVs8z2sXzS=w800-h600-p-k-no",
     "phoneNumber": "05376-83333",
     "cid": "1413562991790865351"
   },
@@ -1100,13 +2080,28 @@
     "longitude": -6.8470816,
     "rating": 4.1,
     "ratingCount": 370,
-    "priceLevel": ["$","$$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain", "Restaurant méditerranéen","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Restaurant méditerranéen",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOoF14shwFF8WXPQSFXU2cy6EC4OGzZMdP1Qm9z=w800-h600-p-k-no",
     "phoneNumber": "05376-86747",
     "website": "https://darlarita.ma/",
     "cid": "10759781845990940733"
@@ -1119,13 +2114,28 @@
     "longitude": -6.850783,
     "rating": 3.2,
     "ratingCount": 70,
-    "priceLevel": ["$$","$$$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$",
+      "$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Pizzeria", "Boissons","Bar"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Animé"],
+    "Vegetarien": true,
+    "category": [
+      "Pizzeria",
+      "Boissons",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Animé"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweohQkFaY2eS8R-LMtxO6nCOVRieA6NQjOz8PB_60ZODmR4oKYcUW4XrSulgL0v1SGcfy5HLIULedXqYZ_M4IIwrHn3CHmn7VeW2GxpDws7XaVmHm77bCN-A8AdUp8k6kzC7xfbE=w800-h600-p-k-no",
     "phoneNumber": "0654-315430",
     "website": "http://www.classico.ma/",
     "cid": "2337907456845463308"
@@ -1138,13 +2148,26 @@
     "longitude": -6.8786152,
     "rating": 4,
     "ratingCount": 654,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant italien"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant italien"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMePsrZqqRUgBuZsDO_iuEqtBliSHezRLxIB8gj=w800-h600-p-k-no",
     "phoneNumber": "05376-90046",
     "website": "https://www.instagram.com/dallazia.rabat/",
     "cid": "11634139275129212085"
@@ -1157,13 +2180,27 @@
     "longitude": -6.8292747,
     "rating": 4.4,
     "ratingCount": 270,
-    "priceLevel": ["$$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant français","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant français",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqMGF8bGkaMsm5XIXUOfc4DLhsubY40JsIn5U01WVknqa2rO8AnkRljnGwtRQztgLTnDdmOfSmj2YABCZhBTLFC_r2XqUlQwsHsLMYMIGs33aclQhJXkewahl0AbqyIwH0Q7a2SyQ=w800-h600-p-k-no",
     "phoneNumber": "05372-03847",
     "cid": "11701583472976537629"
   },
@@ -1175,13 +2212,29 @@
     "longitude": -6.8318761,
     "rating": 4.5,
     "ratingCount": 730,
-    "priceLevel": ["$$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant français","Brunch","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Romantique","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant français",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Romantique",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNMlLL_TJg176JAUtvMgU5NhOKvuQCFm5PORpoV=w800-h600-p-k-no",
     "phoneNumber": "05377-07965",
     "cid": "2185513147910756302"
   },
@@ -1193,13 +2246,28 @@
     "longitude": -6.8338424,
     "rating": 4.5,
     "ratingCount": 587,
-    "priceLevel": ["$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
-    "enfant":true,
+    "priceLevel": [
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Romantique","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Romantique",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNFVBoTGSIh6exI2WWbKXB-TxLs9RJV871Se-1z=w800-h600-p-k-no",
     "phoneNumber": "0666-955920",
     "website": "http://darzaki.com/",
     "cid": "12243582948307238173"
@@ -1212,13 +2280,28 @@
     "longitude": -6.8388442000000005,
     "rating": 4.1,
     "ratingCount": 709,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer8bgDlbRwsByCL4Z5cRTW7hal_ysfz8ooRg-F9rCqgpQfR4ApzBC5Dmiat0wpy_IYf9eA8zW4jrYfU-253--HNQLFRG08na4kvcClQjfui2geU5uHIhwEA3iXzz6KzyQnxpQ9-oAzzfxf3=w800-h600-p-k-no",
     "phoneNumber": "05377-38515",
     "cid": "14858346173812325502"
   },
@@ -1230,13 +2313,29 @@
     "longitude": -6.8731032,
     "rating": 4.8,
     "ratingCount": 102,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Calme","Haut de gamme","Traditionnel"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Calme",
+      "Haut de gamme",
+      "Traditionnel"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOKogRNiC3Pn7_cgYkVFsfWJplBMvb6MJhmlLlP=w800-h600-p-k-no",
     "phoneNumber": "0530-442655",
     "cid": "5117766140576628457"
   },
@@ -1248,13 +2347,24 @@
     "longitude": -6.8454643,
     "rating": 4.4,
     "ratingCount": 19,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain"],
-    "ambiance ": ["Cadre agréable"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain"
+    ],
+    "ambiance ": [
+      "Cadre agréable"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepDSXPqTpL_4nexXvTB2WNrKA5i3U_KV3ntYvXy0inshyMd99Ah1M3UbGV4zlvD7U1c6Ce-P5axHbx2yNOtr42izehqNfWyLPUJjhLeKrh65ZfaIuiipBtj8yDZzSp89uKh-v3UwNa0eD0=w800-h600-p-k-no",
     "phoneNumber": "0665-393626",
     "cid": "9651321870196714997"
   },
@@ -1266,13 +2376,28 @@
     "longitude": -6.850488299999999,
     "rating": 4.1,
     "ratingCount": 763,
-    "priceLevel": ["$","$$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant asiatique","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Romantique"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant asiatique",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqHhUZfGvg89r0IO7YWyll6F9ePsf-VCN3BjbWBKWe6PT5icfYhcsAN61TKfutCoGwoh2ZeNN2s67OEqw--Wyfg9kvTHsTUf3xvQZ0Pr8p8OVNYGL8DDJ73jbB290xUt17Vz5q0=w800-h600-p-k-no",
     "phoneNumber": "05376-80879",
     "website": "http://japoneza.ma/",
     "cid": "855123040450827439"
@@ -1285,13 +2410,29 @@
     "longitude": -6.8515672,
     "rating": 3.2,
     "ratingCount": 211,
-    "priceLevel": ["$$", "$$$", "$$$$"],
-    "type": ["Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant international", "Bar"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché","Romantique","Animé"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant international",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché",
+      "Romantique",
+      "Animé"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPHh1no4DyE2p7cxGawNkEzXQH8_mzeqBe7X6oA=w408-h299-k-no",
     "phoneNumber": "0665-253500",
     "website": "https://www.instagram.com/carbon_rabat/",
     "cid": "276801766357957422"
@@ -1304,13 +2445,27 @@
     "longitude": -6.8473361,
     "rating": 4.2,
     "ratingCount": 251,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Traiteur"],
-    "ambiance ": ["Cadre agréable", "Décontracté","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPtTIXKv_xsORcZZCgSs6qCeFkGHAQvdK1FXbzL=w800-h600-p-k-no",
     "phoneNumber": "0530-003983",
     "cid": "6545915259848539712"
   },
@@ -1322,13 +2477,26 @@
     "longitude": -6.849552399999999,
     "rating": 3.8,
     "ratingCount": 894,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain", "Restaurant fast food"],
-    "ambiance ": ["Cadre agréable","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Restaurant fast food"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOOMa8OnJvHW9bF9tA7X-Wxx3Ws7k2uRY8q_CWv=w800-h600-p-k-no",
     "phoneNumber": "05377-76007",
     "cid": "14296465470764183871"
   },
@@ -1340,13 +2508,29 @@
     "longitude": -6.8411148,
     "rating": 4.3,
     "ratingCount": 170,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant de poissons","Brunch","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Calme","Décontracté"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant de poissons",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Calme",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOIIwGs80-uyIDCHs4LYUhWzx1SheRyIF0yb6wa=w800-h600-p-k-no",
     "phoneNumber": "0530-270622",
     "website": "http://restaurantcafebablaalou.com/",
     "cid": "9463302883611728450"
@@ -1359,13 +2543,26 @@
     "longitude": -6.8466933,
     "rating": 4.8,
     "ratingCount": 18,
-    "priceLevel": ["$$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain", "Traiteur"],
-    "ambiance ": ["Cadre agréable","Calme","Décontracté"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Calme",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO9xJ5UlFY16wO21I0oRrkS-4dHbQyWFMlrwb92=w800-h600-p-k-no",
     "phoneNumber": "08085-72203",
     "website": "http://www.darmechaibia.com/",
     "cid": "190571870899970410"
@@ -1378,13 +2575,27 @@
     "longitude": -6.8466317,
     "rating": 4.3,
     "ratingCount": 305,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant indien","Traiteur"],
-    "ambiance ": ["Cadre agréable","Calme","Décontracté","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant indien",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Calme",
+      "Décontracté",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPf1XFn2JaBIaE7EDUsQWKkqm5-Vms1OpwRHTb3=w800-h600-p-k-no",
     "phoneNumber": "0774-447444",
     "cid": "3488476897497938353"
   },
@@ -1396,13 +2607,26 @@
     "longitude": -6.843289800000001,
     "rating": 4.2,
     "ratingCount": 684,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant de sushis","Traiteur"],
-    "ambiance ": ["Cadre agréable","Calme","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant de sushis",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Calme",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMMnBxXfTEZrZwVgCwAiSt0Hm_gDMVVk23UA2zc=w800-h600-p-k-no",
     "phoneNumber": "05376-82203",
     "cid": "15607834948066982322"
   },
@@ -1414,13 +2638,28 @@
     "longitude": -6.8471706,
     "rating": 3.7,
     "ratingCount": 1469,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain", "Restaurant de grillades","Traiteur"],
-    "ambiance ": ["Cadre agréable","Décontracté","Branché"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Restaurant de grillades",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté",
+      "Branché"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepVI9W2oHfWki-qVt4Df7gFm-TkjLgbBDpc9WWJ74Rzq6fy-bJqkMyV5FfQGJutHQcLyUrDPYXIafGCV_Gi9WNd-_dRA3xJaSmF4TtrQtvi1zcY54deIoXJtBup12w_vNP8FIKloRrpRkw=w800-h600-p-k-no",
     "phoneNumber": "05377-79297",
     "cid": "14003997858776644947"
   },
@@ -1432,13 +2671,25 @@
     "longitude": -6.8502231,
     "rating": 4.4,
     "ratingCount": 44,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant méditerranéen","Traiteur"],
-    "ambiance ": ["Cadre agréable","Décontracté"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant méditerranéen",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNqGK7LqBzB2lW6h5aILXDr2DNlKtH_cUeQayg3=w800-h600-p-k-no",
     "phoneNumber": "0661-566667",
     "cid": "9521870373692375991"
   },
@@ -1450,13 +2701,29 @@
     "longitude": -6.8232143999999995,
     "rating": 4.1,
     "ratingCount": 68,
-    "priceLevel": ["$$$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant international", "Restaurant marocain"],
-    "ambiance ": ["Cadre agréable","Branché","Haut de gamme","Élégant","Animé","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant international",
+      "Restaurant marocain"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Haut de gamme",
+      "Élégant",
+      "Animé",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqRhjuH0ZAhacT5D_gNq2vOf91_xYzBYiTfUFMbAhy5VIKaha8pMycHoTqV_jnaBLWDpwfwkLz_SU9ftCoS6WUHAIWsUyWJYAaPXcPdwAr_C17EiiNXsVoeW3-aogwe3UQKT-GROURbHsV6=w800-h600-p-k-no",
     "phoneNumber": "0668-286816",
     "cid": "15257280884731562940"
   },
@@ -1468,13 +2735,28 @@
     "longitude": -6.8476884,
     "rating": 4.1,
     "ratingCount": 20,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant méditerranéen","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant méditerranéen",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO5-yqKCrkNU5V-9nj58UeE7P-WykupswiLXj3a=w408-h272-k-no",
     "phoneNumber": "05377-77688",
     "website": "https://gardeniarabat.com/restaurant/",
     "cid": "10445692714874225421"
@@ -1487,13 +2769,30 @@
     "longitude": -6.834492999999999,
     "rating": 4.5,
     "ratingCount": 364,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain", "Restaurant international","Brunch","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Restaurant international",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMv1IfHC8YBVuVMivgrSfz9n_xaTH9nEgEkhUde=w800-h600-p-k-no",
     "phoneNumber": "05377-22672",
     "cid": "17534071616516848908"
   },
@@ -1505,13 +2804,28 @@
     "longitude": -6.850261499999999,
     "rating": 3.5,
     "ratingCount": 178,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant fast food","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant fast food",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMK41u7dZNH5E9WwB1KXZlv7ilsfst6kNt1lg1t=w800-h600-p-k-no",
     "phoneNumber": "0530-438600",
     "website": "https://www.instagram.com/tastychickennnn/",
     "cid": "6553440412386599152"
@@ -1524,13 +2838,33 @@
     "longitude": -6.8254678,
     "rating": 3.8,
     "ratingCount": 84,
-    "priceLevel": ["$","$$","$$$"],
-    "type": ["Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$",
+      "$$",
+      "$$$"
+    ],
+    "type": [
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":false,
-    "category": ["Restaurant marocain", "Pizzeria", "Restaurant de grillades", "Restaurant méditerranéen", "Bar","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Animé","Haut de gamme"],
+    "Vegetarien": false,
+    "category": [
+      "Restaurant marocain",
+      "Pizzeria",
+      "Restaurant de grillades",
+      "Restaurant méditerranéen",
+      "Bar",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Animé",
+      "Haut de gamme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerbK4VQUv9ccr58ZB_PAz7P4SVjqyzM63DLDymaoUoB4XDyU68GTurf_xdPo4Xc1ZmbOTZbJgfrIXbn_2D_m_fwcZH5RfB6NDFPXW7S_XYFnVltxIF4iuOZExPNgr4iFv1bjd8=w800-h600-p-k-no",
     "phoneNumber": "0665-160233",
     "website": "https://www.instagram.com/marenostrum_rabat?igsh=ZjFldzVnb3c0dmNu",
     "cid": "14493117425024745528"
@@ -1543,13 +2877,26 @@
     "longitude": -6.837365200000001,
     "rating": 4.4,
     "ratingCount": 116,
-    "priceLevel": ["$$$"],
-    "type": ["Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$$"
+    ],
+    "type": [
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Traditionnel","Haut de gamme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Traditionnel",
+      "Haut de gamme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPz9wgE7Ptc99TAAxWiN-yB4Mg_xEvmPQyCUYAI=w800-h600-p-k-no",
     "phoneNumber": "05376-75656",
     "cid": "4497920318376789976"
   },
@@ -1561,13 +2908,27 @@
     "longitude": -6.8369129,
     "rating": 4.4,
     "ratingCount": 30,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant international","Traiteur"],
-    "ambiance ": ["Cadre agréable","Calme","Décontracté"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant international",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Calme",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP05mVbjt5YSRw_ZYulhFU45DOM-yEDaoelj4ei=w800-h600-p-k-no",
     "phoneNumber": "05372-03432",
     "cid": "17784626398733776700"
   },
@@ -1579,13 +2940,32 @@
     "longitude": -6.8321856,
     "rating": 4.3,
     "ratingCount": 407,
-    "priceLevel": ["$$","$$$","$$$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$",
+      "$$$",
+      "$$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant français", "Bar","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Haut de gamme","Romantique"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant français",
+      "Bar",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Haut de gamme",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNu7uVj6sRtJYSmg5rszlHcals5PkS7sLya5L_H=w800-h600-p-k-no",
     "phoneNumber": "05377-37144",
     "website": "https://lebistrotdupietri.com/",
     "cid": "8626549674610453248"
@@ -1598,13 +2978,28 @@
     "longitude": -6.846921999999999,
     "rating": 3.5,
     "ratingCount": 240,
-    "priceLevel": ["$","$$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$",
+      "$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant espagnol","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Animé"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant espagnol",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Animé"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer5mzHg-fKaWKn0kitsgR3cig3A9Henb8B0dSU04BJBPjRkow0viy2UvwF11xM7c2J2AEPA4a9_uCOnN39Psw0yUtbDw_CGnr-okPxbinZoyISbPRSF9fOIZp1kKAkHssN-FRug8A=w800-h600-p-k-no",
     "phoneNumber": "05376-70800",
     "cid": "15946790700926794664"
   },
@@ -1616,13 +3011,28 @@
     "longitude": -6.849964099999999,
     "rating": 4,
     "ratingCount": 404,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain", "Restaurant méditerranéen","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Restaurant méditerranéen",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweriBkCCshO5l2iDuVUzXsYidQpKvD9WUYXGDRzYUFs7FnepJTyLDrj4_Vhdi5mHuApk_gjzD5a2GqvtrCfYbyUQWlvRTr1FfVeFR_4tIlkiPWwj3AUZcIOlAYWFCXdvgxZt8yM=w800-h600-p-k-no",
     "phoneNumber": "05377-78876",
     "cid": "3325359096587809982"
   },
@@ -1634,13 +3044,30 @@
     "longitude": -6.8308022,
     "rating": 3.9,
     "ratingCount": 1436,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant européen", "Café","Brunch","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant européen",
+      "Café",
+      "Brunch",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer3nAJShnyoEvs9JBzrCJ4iQqaNmEGaYQPZJQUsNg7L4UOYeXBLeLvKVhUZ927YZDVAzI4Oy3CCbJfgEWvni5a_3Nwz-n__9afkla_XBFgNHRKxtxwZZQ-buvnlSpEwyE42InSG=w800-h600-p-k-no",
     "phoneNumber": "05377-20616",
     "cid": "10899357770161592260"
   },
@@ -1652,13 +3079,29 @@
     "longitude": -6.8565385999999995,
     "rating": 4,
     "ratingCount": 510,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain", "Restaurant méditerranéen", "Restaurant fast food","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Restaurant méditerranéen",
+      "Restaurant fast food",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP5ZYF2QdUihUkBS3RPAR4gS9aSBAwm2TD2xBR2=w800-h600-p-k-no",
     "phoneNumber": "05372-97940",
     "cid": "12480154570336931473"
   },
@@ -1670,13 +3113,32 @@
     "longitude": -6.8350398,
     "rating": 4.3,
     "ratingCount": 568,
-    "priceLevel": ["$","$$","$$$"],
-    "type": ["Déjeuner", "Dîner","Petit-Déjeuner"],
-    "enfant":false,
+    "priceLevel": [
+      "$",
+      "$$",
+      "$$$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner",
+      "Petit-Déjeuner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Bar","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Animé","Romantique"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Bar",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Animé",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqHoH13ISXl60brssIp_igFWiop3I9SA18YD5jTeqvzEg7pkC2LWUZmcrkWZYG8l2hHXr8ABvVvR0uKeGI42rGDyi_ZXKvge8HSCnG3c5S0vDDGFsoL2qWgqEHAhO7HbNh7QrrM2EWketAT=w800-h600-p-k-no",
     "phoneNumber": "05377-31322",
     "cid": "18432692779790891139"
   },
@@ -1688,13 +3150,25 @@
     "longitude": -6.8475266,
     "rating": 3.7,
     "ratingCount": 3,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant turc"],
-    "ambiance ": ["Cadre agréable","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant turc"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPR3ZeuqRfIgJJUsulGM1QUo7J3VtuuPQe2MOaA=w800-h600-p-k-no",
     "phoneNumber": "05376-72067",
     "website": "https://sultanagha.matlasud.com/",
     "cid": "6238196133999147318"
@@ -1707,13 +3181,31 @@
     "longitude": -6.8277714,
     "rating": 4.4,
     "ratingCount": 53,
-    "priceLevel": ["$$","$$$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$",
+      "$$$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant français","Bar","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Haut de gamme","Romantique"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant français",
+      "Bar",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Haut de gamme",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep333TiTvmaALysQGwXTa1OHMkBrPxXyew34a8ab7HelAhVRbohlHGs71YdlntT0YnK911IGMxnaUX5mNgZ0djggttuCSoMOKmJ7wFCTFhfItUsw6ggKampXT-4PPd6IO8Sc_Xi_x3mQgU=w800-h600-p-k-no",
     "phoneNumber": "05372-62727",
     "cid": "8576844602714006701"
   },
@@ -1725,13 +3217,28 @@
     "longitude": -6.817956000000001,
     "rating": 4.2,
     "ratingCount": 41,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner","Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant sans salle", "Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant sans salle",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq7QkSu7nk0BfPQKWyu1Utqn9_oxjUS7KsMH5Qr7ZkYFBbc8gVEtNQv70Znue38qHIvR08GXmWPNRk7T6aX-3_8Dnd5OfzTiDHyy3JlV4-XnVHDxylzm3JoTWB5ZAjku9Dssuze=w800-h600-p-k-no",
     "phoneNumber": "05376-55693",
     "website": "http://kitchenetco.com/",
     "cid": "11747349230557048640"
@@ -1744,13 +3251,31 @@
     "longitude": -6.8376813,
     "rating": 4.6,
     "ratingCount": 30,
-    "priceLevel": ["$$","$$$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":false,
+    "priceLevel": [
+      "$$",
+      "$$$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": false,
     "halal": "Non",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain","Bar"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Animé","Romantique","Traditionnel"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Bar"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Animé",
+      "Romantique",
+      "Traditionnel"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoaQHPu33vK8QxguXeqbU6Mq-eT6hghuOV9aHZvB0nbY_IyXy5qBii5SjRUaTp9YnasulQ_H1hTulOrILieXm6cmjsoSGM_ycEuNrNw1dFptL7yK5jp4n_fH8ZtdNGVZaS3NXLSLG7pW04=w408-h725-k-no",
     "phoneNumber": "0661-144899",
     "website": "http://www.rabatriads.com/",
     "cid": "2948910993457762736"
@@ -1763,13 +3288,24 @@
     "longitude": -6.8358716,
     "rating": 4.8,
     "ratingCount": 268,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepvLcPgtMAgbi6xDmwL0541XFVjpZFuohM4ZMTK1Vj-jrpBNItTvSy5-FkwBA79_9OHaF8_75LElPCnuGANbyN0-5LyNWYSDxGPd-i1j10ktmDkE1EZGZOoDd-PtVqaeX98hdQdFA=w800-h600-p-k-no",
     "phoneNumber": "0676-490679",
     "cid": "5488589595706367884"
   },
@@ -1781,13 +3317,28 @@
     "longitude": -6.8431649,
     "rating": 4.1,
     "ratingCount": 3303,
-    "priceLevel": ["$"],
-    "type": ["Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant syrien","Traiteur"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Traditionnel","Romantique"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant syrien",
+      "Traiteur"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Traditionnel",
+      "Romantique"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweprlu6TYUuuq_Nz9VlDmfB0WOk5-FWA4eO0v__DEVf0Qck99eSyKF21fSdmb-3vW_kT4psFersHjX42qs4ZLUKKJMvVSKqDh7CESJ7IdgCquAcPEYvzdkVWoc5kchU-_wY3BSDPj_gUznTT=w800-h600-p-k-no",
     "phoneNumber": "05377-25725",
     "website": "http://www.yamalacham.ma/",
     "cid": "4654115455011229935"
@@ -1800,13 +3351,29 @@
     "longitude": -6.8372304,
     "rating": 4.5,
     "ratingCount": 140,
-    "priceLevel": ["$"],
-    "type": ["Petit-Déjeuner", "Déjeuner", "Dîner"],
-    "enfant":true,
+    "priceLevel": [
+      "$"
+    ],
+    "type": [
+      "Petit-Déjeuner",
+      "Déjeuner",
+      "Dîner"
+    ],
+    "enfant": true,
     "halal": "Oui",
-    "Vegetarien":true,
-    "category": ["Restaurant marocain", "Restaurant fast food", "Café"],
-    "ambiance ": ["Cadre agréable","Branché","Décontracté","Calme"],
+    "Vegetarien": true,
+    "category": [
+      "Restaurant marocain",
+      "Restaurant fast food",
+      "Café"
+    ],
+    "ambiance ": [
+      "Cadre agréable",
+      "Branché",
+      "Décontracté",
+      "Calme"
+    ],
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMN0-V_ApA6gh0cJ7h9rix2iuTG-Z18J9a9xYAY=w800-h600-p-k-no",
     "phoneNumber": "08085-95867",
     "cid": "12358170491877026500"
   }
